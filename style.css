@@ -1,0 +1,22 @@
+body{
+  padding: 25px;
+  background-color:rgba(255, 225, 0, 0.66);
+}
+.title {
+	color: #000000;
+}
+h1{
+  text-align:center;
+}
+form {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    background-color: rgb(90, 162, 14);
+    padding: 30px;
+    border-radius: 30px;
+}
+button:hover {
+    opacity: 0.90;
+}
